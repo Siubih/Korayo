@@ -38,3 +38,46 @@ header h1{
     left: 0;
     top: 30%; 
 }
+.my-projects{
+    background-color: goldenrod;
+    }
+    .my-projects h3{
+        font-size: 25px;       
+    }
+main{
+    max-width: 100%;
+    width: 1200px;
+    margin: 80px auto;
+    padding: 0 40px;
+    box-sizing: border-box;
+}
+article h2{
+    color: rgb(7, 7, 7);
+    font-size: 48px;
+}
+article p{
+    padding: auto;
+    line-height: 2em;
+    color: #151515;
+}
+.img{
+    text-align: centre;
+    margin: 80px 0;
+    white-space: nowrap;
+}
+.img li{
+    display: inline-block;
+    width: 500px;
+    margin: 20px 5px;
+}
+.img li img{
+    max-width: 100%;
+}
+.hobbies{
+    text-align: left;
+    background: burlywood;
+    padding: 60px 20px;
+    color: #151515;
+}
+
+    
