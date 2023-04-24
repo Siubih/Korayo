@@ -1,6 +1,6 @@
 # About me
 #### {The code is a website that describes me}, {04/19/2023}
-#### By **{Dennis Kiboi}**
+#### By **{Fredrick Singh}**
 ## Description
 {The code is an html/css code describing ma as an individual and why i decided to join Moringa school to study robotics and automation }
 The code will run in any web browser
